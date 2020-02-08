@@ -1,3 +1,7 @@
+You have to have School vpn to access the database
+install php to run the locaol server
+ask me for php configuration
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
