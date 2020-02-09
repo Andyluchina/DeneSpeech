@@ -34,6 +34,7 @@ class App extends React.Component {
           path.splice(i, 1);
         }
       }
+      path.join("/");
       this.setState({
         path: path
       });
