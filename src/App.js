@@ -5,6 +5,10 @@ import "./App.css";
 class App extends React.Component {
   componentWillMount() {
     this.parseUrl();
+    //set to loading page
+    //request mysql
+    //turn off the loading
+    //load the page
   }
 
   state = {
