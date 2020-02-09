@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-
+import axios from "axios";
 class App extends React.Component {
   componentWillMount() {
     this.parseUrl();
@@ -25,9 +25,9 @@ class App extends React.Component {
     this.props.history.push(path);
   };
 
-  parseUrl = () => {
+  parseUrl = async () => {
     if (this.state.path === null) {
-      console.log(this.props.location.pathname.split("/"));
+      //console.log(this.props.location.pathname.split("/"));
       var path = this.props.location.pathname.split("/");
       for (var i = 0; i < path.length; i++) {
         if (path[i] === "") {
@@ -38,6 +38,8 @@ class App extends React.Component {
       this.setState({
         path: path
       });
+      const res = await axios.get("/request_config", path);
+      console.log(res);
       //trying to find config for that page
     }
   };
