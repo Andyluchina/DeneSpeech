@@ -38,7 +38,7 @@ class App extends React.Component {
       this.setState({
         path: path
       });
-      const res = await axios.get("/request_config", path);
+      const res = await axios.get("/index.php", path);
       console.log(res);
       //trying to find config for that page
     }
