@@ -42,24 +42,28 @@ class App extends React.Component {
         }
     };
     render() {
-        if(this.state.configuration == null){
-            return (<Loading/>);
-        }else{
-            return (
-
-                        <div>
-                        <img src={logo} className="App-logo" alt="logo"/>
-                        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-                            Page url: {
-                                this.state.path.map(item => {
-                                    return <p>{item}</p>;
-                                })
-                            }
-                        </a>
-                    </div>
-                )
+        if (this.state.configuration == null) {
+            return (<div style={{
+                    position: 'absolute',
+                    left: '50%',
+                    top: '50%',
+                    transform: 'translate(-50%, -50%)'
+                }}>
+                <Loading/>
+            </div>);
+        } else {
+            return (<div>
+                <img src={logo} className="App-logo" alt="logo"/>
+                <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+                    Page url: {
+                        this.state.path.map(item => {
+                            return <p>{item}</p>;
+                        })
+                    }
+                </a>
+            </div>)
         }
-        }
+    }
 
 }
 
