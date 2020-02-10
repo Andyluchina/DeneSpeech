@@ -2,6 +2,9 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import axios from "axios";
+import LoadingScreen from 'react-loading-screen';
+import Loading from "./loading.js";
+
 class App extends React.Component {
   componentWillMount() {
     this.parseUrl();
@@ -47,18 +50,19 @@ class App extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Page url:
-            {this.state.path.map(item => {
-              return <p>{item}</p>;
-            })}
-          </a>
+            {/*<img src={logo} className="App-logo" alt="logo" />
+            <a
+              className="App-link"
+              href="https://reactjs.org"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Page url:
+              {this.state.path.map(item => {
+                return <p>{item}</p>;
+              })}
+            </a>*/}
+           <Loading loading = {this.state.configuration} path = {this.state.path}/>
         </header>
       </div>
     );
