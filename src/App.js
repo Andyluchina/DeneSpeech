@@ -4,6 +4,7 @@ import "./App.css";
 import axios from "axios";
 import LoadingScreen from 'react-loading-screen';
 import Loading from "./loading.js";
+import NotFoundPage from './NotFoundPage.js';
 
 class App extends React.Component {
     componentWillMount() {
@@ -44,7 +45,8 @@ class App extends React.Component {
 
     render() {
         if (this.state.configuration == null) {
-            return (<Loading/>);
+            {/*return (<Loading/>);*/}
+            return (<NotFoundPage/>)
         } else {
             return (<div>
                 <img src={logo} className="App-logo" alt="logo"/>
