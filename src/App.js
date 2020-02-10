@@ -41,16 +41,10 @@ class App extends React.Component {
             //trying to find config for that page
         }
     };
+
     render() {
         if (this.state.configuration == null) {
-            return (<div style={{
-                    position: 'absolute',
-                    left: '50%',
-                    top: '50%',
-                    transform: 'translate(-50%, -50%)'
-                }}>
-                <Loading/>
-            </div>);
+            return (<Loading/>);
         } else {
             return (<div>
                 <img src={logo} className="App-logo" alt="logo"/>
