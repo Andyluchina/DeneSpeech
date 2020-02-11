@@ -1,0 +1,2480 @@
+{
+    "/dene-suline/cold-lake/consonants/b-b-labial-stop.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/b_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/b.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/ch-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tc-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tc.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/ch-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tcej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tcej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/d-d-coronal-stop.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/d_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/d.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/ddh-dth.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ddh-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ddh.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/dh-th.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dh_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dh.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/dl-dl-lateral-affricate.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dl-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dl.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/dz-dz.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/g-g.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/g_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/g.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/gh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gh_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/h-h.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/id.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/lvl_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/lvl.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/j-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dj-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dj.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/k-k.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kej_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/k-kx.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/l-l.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/l_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/l.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/m-m.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/m_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/m.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/n-n.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/r-r.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/rmedial-2_med.png",
+            "../../../../_Media/rfinal_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/rfinal.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/sh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/s-s.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/s_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/s.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/th-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/th_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/th.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/ts-ts.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tsej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tsej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/t-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvl-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvl.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/t-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvlej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvlej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/t-t-3.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tej_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/tth-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tth-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tth.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/tth-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tthej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tthej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/x-x.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/x_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/x.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/y--j-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/consonants/z-z.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/conversation-toy-game.html": {
+        "img": [
+            "../../../_Media/toy-game-test.jpeg"
+        ],
+        "audio": [],
+        "vid": [
+            "../../../_Media/toy-game-test.m4v"
+        ]
+    },
+    "/dene-suline/cold-lake/index.html": {
+        "img": [],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/a-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tej_med.png",
+            "../../../../_Media/dh_med.png",
+            "../../../../_Media/lvl_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tej.mp3",
+            "../../../../_Media/dh.mp3",
+            "../../../../_Media/lvl.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/e-e.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz-2_med.png",
+            "../../../../_Media/dj-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz.mp3",
+            "../../../../_Media/dj.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/i-i.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/m_med.png",
+            "../../../../_Media/ddh-2_med.png",
+            "../../../../_Media/rmedial-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/m.mp3",
+            "../../../../_Media/ddh.mp3",
+            "../../../../_Media/rmedial.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/shirley-vowels_med.png",
+            "../../../../_Media/shirley-vowels2_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/o-o.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvlej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvlej.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/cold-lake/vowels/u-u.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dl-2_med.png",
+            "../../../../_Media/h_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dl.mp3",
+            "../../../../_Media/h.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/index.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/imgres-1_med_hr.jpeg",
+            "../../_Media/nsf1.gif",
+            "../../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/b-b.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/b-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/b-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/ch-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tc-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tc-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/ch-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tcej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tcej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/d-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/d-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/d-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/ddh-dth.html": {
+        "img": [
+            "../../../../_Media/ddh-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ddh-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/dh-th.html": {
+        "img": [
+            "../../../../_Media/dh-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dh-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/dl-dl.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dl-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dl-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/dz-dz.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/g-g.html": {
+        "img": [
+            "../../../../_Media/g-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/g-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/gh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gh-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/h-h.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/id.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/lvl-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/lvl-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/id-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gs_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gs.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/j-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dj-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dj-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/k-k.html": {
+        "img": [
+            "../../../../_Media/kej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/k-kx.html": {
+        "img": [
+            "../../../../_Media/k-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/l-l.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/l-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/l-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/n-n.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/r-r.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/r_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/r.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/sh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/s-s.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/s-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/s-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/th-.html": {
+        "img": [
+            "../../../../_Media/th-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/th-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/ts-ts.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tsej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tsej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/t-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvl-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvl-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/t-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvlej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvlej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/t-t-3.html": {
+        "img": [
+            "../../../../_Media/tej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/tth-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tth-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tth-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/tth-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tthej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tthej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/t-tx.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/x-x.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/x-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/x-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/y--j-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j-5_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/consonants/z-z.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/index.html": {
+        "img": [],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/a-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/g-3_med.png",
+            "../../../../_Media/dj-3_med.png",
+            "../../../../_Media/gs_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/g-3.mp3",
+            "../../../../_Media/dj-2.mp3",
+            "../../../../_Media/gs.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/e-e.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ddh-3_med.png",
+            "../../../../_Media/sh-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ddh-2.mp3",
+            "../../../../_Media/sh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/i-i.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z-2_med.png",
+            "../../../../_Media/ddh-3_med.png",
+            "../../../../_Media/dh-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z-2.mp3",
+            "../../../../_Media/ddh-2.mp3",
+            "../../../../_Media/dh-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/agnes-vowels_med.png",
+            "../../../../_Media/agnes-vowels2_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/o-o.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h-2_med.png",
+            "../../../../_Media/gs_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h-2.mp3",
+            "../../../../_Media/gs.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/lac-brochet/vowels/u-u.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n-4_med.png",
+            "../../../../_Media/tcej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n-3.mp3",
+            "../../../../_Media/tcej-2.mp3"
+        ],
+        "vid": []
+    },
+    "/dene-suline/orthography.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/screen-shot-2013-07-03-at_med.png",
+            "../../_Media/screen-shot-2013-07-03-at_322.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/index.html": {
+        "img": [
+            "../_Media/dsalogoback_med_hr.jpeg",
+            "../_Media/imgres-1_med_hr.jpeg",
+            "../_Media/nsf1.gif",
+            "../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/b-b.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/b-initial-2_med.png",
+            "../../../../_Media/b-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/b-initial-2.mp3",
+            "../../../../_Media/b-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/ch-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ch-stem-2_med.png",
+            "../../../../_Media/ch-nonstem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-stem-2.mp3",
+            "../../../../_Media/ch-nonstem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/ch-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ch-ej-initial-2_med.png",
+            "../../../../_Media/ch-ej-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-ej-initial.mp3",
+            "../../../../_Media/ch-ej-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/d-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/d-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/d-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/dl-dl.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dleja_med.png",
+            "../../../../_Media/dl-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dleja.mp3",
+            "../../../../_Media/dl-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/dz-dz.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz-initial_med.png",
+            "../../../../_Media/dz-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz-initial.mp3",
+            "../../../../_Media/dz-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/g-g.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/g-initial_med.png",
+            "../../../../_Media/g-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/g-initial.mp3",
+            "../../../../_Media/g-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/gh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gh-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/h-h.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h-initial-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h-initial-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/id.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/initial-3_med.png",
+            "../../../../_Media/stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-ej-stem-2.mp3",
+            "../../../../_Media/stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/j-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j-initial_med.png",
+            "../../../../_Media/j-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-initial.mp3",
+            "../../../../_Media/j-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/k-k.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k-initial-3_med.png",
+            "../../../../_Media/k-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-initial-2.mp3",
+            "../../../../_Media/k-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/k-k-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k-ej0_med.png",
+            "../../../../_Media/k-ej-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-ej0.mp3",
+            "../../../../_Media/k-ej-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/kw-kw.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kw-initial-2_med.png",
+            "../../../../_Media/kw-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kw-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/kw-kw-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kw-ej-initial-2_med.png",
+            "../../../../_Media/kw-ej-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kw-ej-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/l-l.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/l-initial-2_med.png",
+            "../../../../_Media/l-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/l-initial-2.mp3",
+            "../../../../_Media/l-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/n-n.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n-initial_med.png",
+            "../../../../_Media/n-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n-initial.mp3",
+            "../../../../_Media/n-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/r-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/r-initial-2_med.png",
+            "../../../../_Media/r-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/r-initial.mp3",
+            "../../../../_Media/r-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/sh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh-initial_med.png",
+            "../../../../_Media/sh-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh-initial.mp3",
+            "../../../../_Media/sh-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/s-s.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/s-initial-2_med.png",
+            "../../../../_Media/s-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/s-initial-2.mp3",
+            "../../../../_Media/s-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/ts-ts.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-ej-initial-3_med.png",
+            "../../../../_Media/ts-ej-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-ej-initial-2.mp3",
+            "../../../../_Media/ts-ej-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/t-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-initial-3_med.png",
+            "../../../../_Media/t-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-initial-2.mp3",
+            "../../../../_Media/t-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/t-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-ej-initial-2_med.png",
+            "../../../../_Media/t-ej-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-ej-initial-2.mp3",
+            "../../../../_Media/t-ej-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/t-t-3.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-initial_med.png",
+            "../../../../_Media/t-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-initial-2-2.mp3",
+            "../../../../_Media/t-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/t-t-4.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-ej-stem-2_med-2.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-ej-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/wh-w.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/w0_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/w0.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/w-w.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/w-initial-2_med.png",
+            "../../../../_Media/w-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/w-initial-2.mp3",
+            "../../../../_Media/k-initial-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/y-j.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/y-initial-2_med.png",
+            "../../../../_Media/y-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/y-initial-2.mp3",
+            "../../../../_Media/y-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/zh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/zh-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/zh-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/consonants/z-z.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/index.html": {
+        "img": [],
+        "audio": [],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/a-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-stem-3_med.png",
+            "../../../../_Media/n-initial_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-stem-2.mp3",
+            "../../../../_Media/n-initial.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/e-e.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh-initial_med.png",
+            "../../../../_Media/kw-ej-initial-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh-initial.mp3",
+            "../../../../_Media/kw-ej-initial-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/i-i.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kw-ej-stem-3_med.png",
+            "../../../../_Media/ts-ej-stem-3_med.png",
+            "../../../../_Media/t-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kw-ej-stem-2.mp3",
+            "../../../../_Media/ts-ej-stem-2.mp3",
+            "../../../../_Media/t-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/jm-ns-vowels-2_med.png",
+            "../../../../_Media/jm-ns-vowels2_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/o-o.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ch-stem-2_med.png",
+            "../../../../_Media/h-initial-2_med.png",
+            "../../../../_Media/s-initial-2_med.png",
+            "../../../../_Media/z-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-stem-2.mp3",
+            "../../../../_Media/h-initial-2.mp3",
+            "../../../../_Media/s-initial-2.mp3",
+            "../../../../_Media/z-stem-2.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/deline-nwt/vowels/u-u.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j-initial_med.png",
+            "../../../../_Media/sh-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-initial.mp3",
+            "../../../../_Media/sh-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/north-slavey/index.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/imgres-1_med_hr.jpeg",
+            "../../_Media/nsf1.gif",
+            "../../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/north-slavey/orthography-for-north-slave.html": {
+        "img": [
+            "../../_Media/screen-shot-2013-07-04-at_med-5.png",
+            "../../_Media/screen-shot-2013-07-04-at_med-2.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/consonants/b-b.html": {
+        "img": [
+            "../../../_Media/b-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/b-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/ch-t.html": {
+        "img": [
+            "../../../_Media/tc_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tc-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/ch-t-2.html": {
+        "img": [
+            "../../../_Media/tcej_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tcej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/d-d.html": {
+        "img": [
+            "../../../_Media/d-4_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/d-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/ddh-dth.html": {
+        "img": [
+            "../../../_Media/ddh_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/ddh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/dh-th.html": {
+        "img": [
+            "../../../_Media/dh-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/dh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/dl-dl.html": {
+        "img": [
+            "../../../_Media/dl_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/dl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/dz-dz.html": {
+        "img": [
+            "../../../_Media/dz_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/dz-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/g-g.html": {
+        "img": [
+            "../../../_Media/g-4_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/g-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/gh-.html": {
+        "img": [
+            "../../../_Media/gh-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/gh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/h-h.html": {
+        "img": [
+            "../../../_Media/h-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/h-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/id.html": {
+        "img": [
+            "../../../_Media/lvl-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/lvl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/id-2.html": {
+        "img": [
+            "../../../_Media/gs-2_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/gs-2.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/index.html": {
+        "img": [
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/consonants/j-d.html": {
+        "img": [
+            "../../../_Media/dj_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/dj-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/k-k.html": {
+        "img": [
+            "../../../_Media/kej-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/kej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/k-kx.html": {
+        "img": [
+            "../../../_Media/k_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/k-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/l-l.html": {
+        "img": [
+            "../../../_Media/l-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/l-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/m-m.html": {
+        "img": [
+            "../../../_Media/m-2_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/m-2.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/n-n.html": {
+        "img": [
+            "../../../_Media/n_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/n-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/sh-.html": {
+        "img": [
+            "../../../_Media/sh-4_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/sh-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/s-s.html": {
+        "img": [
+            "../../../_Media/x-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/x-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/th-.html": {
+        "img": [
+            "../../../_Media/th-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/th-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/ts-ts.html": {
+        "img": [
+            "../../../_Media/ts_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/ts-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../_Media/tsej_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tsej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/t-t.html": {
+        "img": [
+            "../../../_Media/tlvl_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tlvl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/t-t-2.html": {
+        "img": [
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/consonants/t-t-3.html": {
+        "img": [
+            "../../../_Media/tej-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/tth-t.html": {
+        "img": [
+            "../../../_Media/tth_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tth-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/tth-t-2.html": {
+        "img": [
+            "../../../_Media/tthej_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/tthej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/t-tx.html": {
+        "img": [
+            "../../../_Media/t_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/t-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/y--j-.html": {
+        "img": [
+            "../../../_Media/j_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/j-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/zh-.html": {
+        "img": [
+            "../../../_Media/zh_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/zh.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/consonants/z-z.html": {
+        "img": [
+            "../../../_Media/z-3_med.png",
+            "../../../_Media/dsalogo_med.jpeg"
+        ],
+        "audio": [
+            "../../../_Media/z-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/index.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/imgres-1_med_hr.jpeg",
+            "../../_Media/nsf1.gif",
+            "../../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/b-b.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/b-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/b-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/ch-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tc_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tc-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/ch-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tcej_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tcej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/d-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/d-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/d-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/ddh-dth.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ddh_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ddh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/dh-th.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dh-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/dl-dl.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dl_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/dz-dz.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/g-g.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/g-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/g-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/gh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gh-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/h-h.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/id.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/lvl-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/lvl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/id-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gs-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gs-2.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/j-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dj_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dj-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/k-k.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/k-kx.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/l-l.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/l-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/l-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/m-m.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/m-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/m-2.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/n-n.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/sh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/s-s.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/x-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/x-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/th-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/th-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/th-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/ts-ts.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tsej_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tsej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/t-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tlvl_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tlvl-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/t-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/t-t-3.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tej-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/tth-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tth_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tth-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/tth-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tthej_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tthej-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/t-tx.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/y--j-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-4.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/zh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/zh_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/zh.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/consonants/z-z.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z-3.mp3"
+        ],
+        "vid": []
+    },
+    "/south-slavey/jean-marie-river/index.html": {
+        "img": [],
+        "audio": [],
+        "vid": []
+    },
+    "/south-slavey/orthography-for-south-slave/index.html": {
+        "img": [
+            "../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../_Media/screen-shot-2013-07-04-at_med-4.png",
+            "../../../_Media/south_slavey_vowel_chart_med-2.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/b-b.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/b-initial_med.png",
+            "../../../../_Media/b-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/b-initial.mp3",
+            "../../../../_Media/b-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/ch-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ch-stem-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/ch-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ch-ej-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-ej-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/d-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/d-initial_med.png",
+            "../../../../_Media/d-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/d-initial.mp3",
+            "../../../../_Media/d-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/dl-dl.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dl-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dl-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/dz-dz.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/dz-stem_med.png",
+            "../../../../_Media/dz-nonstem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/dz-stem.mp3",
+            "../../../../_Media/dz-nonstem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/g-g.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/g-initial-2_med.png",
+            "../../../../_Media/g-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/m-stem.mp3",
+            "../../../../_Media/g-2.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/gh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/gh-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/h-h.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/h-initial_med.png",
+            "../../../../_Media/h-stem-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/h-initial.mp3",
+            "../../../../_Media/h-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/id.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/initial_med.png",
+            "../../../../_Media/stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/initial.mp3",
+            "../../../../_Media/stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/id-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/stem_med-2.png"
+        ],
+        "audio": [
+            "../../../../_Media/stem-3.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/index.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/j-d.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/j-stem_med.png",
+            "../../../../_Media/j-3_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/j-stem.mp3",
+            "../../../../_Media/j.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/k-k.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k-initial-5_med.png",
+            "../../../../_Media/k-stem-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-initial-3.mp3",
+            "../../../../_Media/k-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/k-k-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/k-ej-initial-2_med.png",
+            "../../../../_Media/k-ej-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/k-ej-initial.mp3",
+            "../../../../_Media/k-ej-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/kw-kw.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kw-initial_med.png",
+            "../../../../_Media/kw-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/gh-stem.mp3",
+            "../../../../_Media/kw-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/kw-kw-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/kw-ej-initial_med.png",
+            "../../../../_Media/kw-ej-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/kw-ej-initial.mp3",
+            "../../../../_Media/kw-ej-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/l-l.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/l-initial-3_med.png",
+            "../../../../_Media/l-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/l-initial.mp3",
+            "../../../../_Media/l-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/m-m.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/m-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/m-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/n-n.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/n-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/n.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/sh-.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/sh-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/sh.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/s-s.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/s-initial_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/s-initial.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/ts-ts.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-initial_med.png",
+            "../../../../_Media/ts-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-initial.mp3",
+            "../../../../_Media/ts-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/ts-ts-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/ts-ej-initial-4_med.png",
+            "../../../../_Media/ts-ej-stem-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ts-ej-initial.mp3",
+            "../../../../_Media/ts-ej-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/t-t.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tl-initial-2_med.png",
+            "../../../../_Media/tl-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tl-initial.mp3",
+            "../../../../_Media/tl-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/t-t-2.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/tl-ej-stem_med.png",
+            "../../../../_Media/tl-ej-2_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/tl-ej-stem.mp3",
+            "../../../../_Media/tl-ej.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/t-t-3.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-initial-5_med.png",
+            "../../../../_Media/t-stem-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-initial-3.mp3",
+            "../../../../_Media/t-stem-3.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/t-t-4.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/t-ej-initial-3_med.png",
+            "../../../../_Media/t-ej-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-ej-initial.mp3",
+            "../../../../_Media/t-ej-stem-3.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/wh-w.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/wh-initial_med.png",
+            "../../../../_Media/wh-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/wh-initial.mp3",
+            "../../../../_Media/wh-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/w-w.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/w-initial-3_med.png",
+            "../../../../_Media/w-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/w-initial.mp3",
+            "../../../../_Media/w-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/x-x.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/xa_med.png",
+            "../../../../_Media/xo-initial_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/xa.mp3",
+            "../../../../_Media/xo-initial.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/y-j.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/y-initial_med.png",
+            "../../../../_Media/y-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/y-initial.mp3",
+            "../../../../_Media/y-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/consonants/z-z.html": {
+        "img": [
+            "../../../../_Media/dsalogoback_med_hr.jpeg",
+            "../../../../_Media/z-initial_med.png",
+            "../../../../_Media/z-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/z-initial.mp3",
+            "../../../../_Media/z-stem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/index.html": {
+        "img": [],
+        "audio": [],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/vowels/a-.html": {
+        "img": [
+            "../../../../_Media/s-initial_med.png",
+            "../../../../_Media/t-stem-4_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/s-initial.mp3",
+            "../../../../_Media/t-stem-3.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/vowels/e-e.html": {
+        "img": [
+            "../../../../_Media/t-ej-initial-3_med.png",
+            "../../../../_Media/s-initial_med.png",
+            "../../../../_Media/dz-nonstem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-ej-initial.mp3",
+            "../../../../_Media/s-initial.mp3",
+            "../../../../_Media/dz-nonstem.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/vowels/i-i.html": {
+        "img": [
+            "../../../../_Media/ch-stem-3_med.png",
+            "../../../../_Media/ch-ej-stem_med.png",
+            "../../../../_Media/tl-initial-2_med.png",
+            "../../../../_Media/t-ej-stem_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/ch-stem.mp3",
+            "../../../../_Media/ch-ej-stem.mp3",
+            "../../../../_Media/tl-initial.mp3",
+            "../../../../_Media/t-ej-stem-3.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/vowels/index.html": {
+        "img": [
+            "../../../../_Media/mac-vowels_med.png",
+            "../../../../_Media/mac-vowels2_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/ti-cho-dogrib/behchoko/vowels/o-o.html": {
+        "img": [
+            "../../../../_Media/t-stem-4_med.png",
+            "../../../../_Media/h-initial_med.png",
+            "../../../../_Media/initial_med.png"
+        ],
+        "audio": [
+            "../../../../_Media/t-stem-3.mp3",
+            "../../../../_Media/h-initial.mp3",
+            "../../../../_Media/initial.mp3"
+        ],
+        "vid": []
+    },
+    "/ti-cho-dogrib/index.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/imgres-1_med_hr.jpeg",
+            "../../_Media/nsf1.gif",
+            "../../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/ti-cho-dogrib/orthography-for-ti-cho.html": {
+        "img": [
+            "../../_Media/dsalogoback_med_hr.jpeg",
+            "../../_Media/screen-shot-dogrib_med.jpeg",
+            "../../_Media/screen-shot-2013-07-05-at_med-2.png"
+        ],
+        "audio": [],
+        "vid": []
+    },
+    "/tsuu-tina-sarcee-language.html": {
+        "img": [
+            "../_Media/dsalogoback_med_hr.jpeg",
+            "../_Media/imgres-1_med_hr.jpeg",
+            "../_Media/nsf1.gif",
+            "../_Media/colourlogo_med.png"
+        ],
+        "audio": [],
+        "vid": []
+    }
+}
