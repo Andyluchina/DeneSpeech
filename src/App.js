@@ -1,66 +1,71 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import axios from "axios";
-import LoadingScreen from 'react-loading-screen';
+import LoadingScreen from "react-loading-screen";
 import Loading from "./loading.js";
-import NotFoundPage from './NotFoundPage.js';
+import NotFoundPage from "./NotFoundPage.js";
 
 class App extends React.Component {
-    componentWillMount() {
-        this.parseUrl();
-        //set to loading page
-        //request mysql
-        //turn off the loading
-        //load the page
-    }
+  componentWillMount() {
+    this.parseUrl();
+    //set to loading page
+    //request mysql
+    //turn off the loading
+    //load the page
+  }
 
-    state = {
-        path: null,
-        configuration: null
-    };
+  state = {
+    path: null,
+    configuration: null
+  };
 
-    //have to use this method to redirect pages
-    redirect = path => {
-        this.setState({path: null, configuration: null});
-        this.props.history.push(path);
-    };
+  //have to use this method to redirect pages
+  redirect = path => {
+    this.setState({ path: null, configuration: null });
+    this.props.history.push(path);
+  };
 
-    parseUrl = async () => {
-        if (this.state.path === null) {
-            //console.log(this.props.location.pathname.split("/"));
-            var path = this.props.location.pathname.split("/");
-            for (var i = 0; i < path.length; i++) {
-                if (path[i] === "") {
-                    path.splice(i, 1);
-                }
-            }
-            path.join("/");
-            this.setState({path: path});
-            const res = await axios.get("/index.php", path);
-            console.log(res);
-            //trying to find config for that page
+  parseUrl = async () => {
+    if (this.state.path === null) {
+      //console.log(this.props.location.pathname.split("/"));
+      var path = this.props.location.pathname.split("/");
+      for (var i = 0; i < path.length; i++) {
+        if (path[i] === "") {
+          path.splice(i, 1);
         }
-    };
+      }
 
-    render() {
-        if (this.state.configuration == null) {
-            {/*return (<Loading/>);*/}
-            return (<NotFoundPage/>)
-        } else {
-            return (<div>
-                <img src={logo} className="App-logo" alt="logo"/>
-                <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-                    Page url: {
-                        this.state.path.map(item => {
-                            return <p>{item}</p>;
-                        })
-                    }
-                </a>
-            </div>)
-        }
+      this.setState({ path: path.join("/") });
+      const res = await axios.get("/index.php?path=" + path.join("/"));
+      console.log(res);
+      //trying to find config for that page
     }
+  };
 
+  render() {
+    if (this.state.configuration == null) {
+      {
+        /*return (<Loading/>);*/
+      }
+      return <NotFoundPage />;
+    } else {
+      return (
+        <div>
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Page url:{" "}
+            {this.state.path.map(item => {
+              return <p>{item}</p>;
+            })}
+          </a>
+        </div>
+      );
+    }
+  }
 }
 
 export default App;
