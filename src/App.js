@@ -4,6 +4,7 @@ import axios from "axios";
 import LoadingScreen from "react-loading-screen";
 import Loading from "./loading.js";
 import NotFoundPage from "./NotFoundPage.js";
+import Page from "./page.js";
 
 class App extends React.Component {
   componentWillMount() {
@@ -53,7 +54,8 @@ class App extends React.Component {
 
   render() {
     if (this.state.configuration === null) {
-      return <Loading />;
+        return <Page />;
+      //return <Loading />;
     } else if (this.state.configuration === "not found") {
       return <NotFoundPage />;
     } else {
