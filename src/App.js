@@ -38,32 +38,26 @@ class App extends React.Component {
       this.setState({ path: path.join("/") });
       const res = await axios.get("/index.php?path=" + path.join("/"));
       console.log(res);
+      if (res.data === null) {
+        this.setState({
+          configuration: "not found"
+        });
+      } else {
+        this.setState({
+          configuration: res.data.configuration
+        });
+      }
       //trying to find config for that page
     }
   };
 
   render() {
-    if (this.state.configuration == null) {
-      {
-        /*return (<Loading/>);*/
-      }
+    if (this.state.configuration === null) {
+      return <Loading />;
+    } else if (this.state.configuration === "not found") {
       return <NotFoundPage />;
     } else {
-      return (
-        <div>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Page url:{" "}
-            {this.state.path.map(item => {
-              return <p>{item}</p>;
-            })}
-          </a>
-        </div>
-      );
+      return <div>{this.state.path} is found in the database</div>;
     }
   }
 }
