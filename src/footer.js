@@ -18,7 +18,7 @@ const styles = {
     margin: "0",
     color: "#999",
     bottom: "0",
-    background: "white",
+    background: "#F2F2F2",
     clear: "both",
     fontSize: "12px"
   }
