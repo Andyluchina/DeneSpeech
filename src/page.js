@@ -1,24 +1,36 @@
 import React from "react";
+import Header from "./header.js";
+import Footer from "./footer.js";
+import TemplateContainer from "./templateContainer.js";
 
 class Page extends React.Component {
 
    render() {
     return (
+    <div style={styles.container}>
        <div style={styles.page}>
-            <h1>hii</h1>
+            <Header/>
+            <TemplateContainer/>
+            <Footer/>
        </div>
+     </div>
     )
  }
 }
 
 const styles = {
-    page: {
+    container: {
+        backgroundColor: "#F2F2F2",
         display: "inline-block",
-        backgroundColor: "red",
+        width:'100%',
+        height:'100%',
+        padding:'1% 10%',
+        clear:'both'
+    },
+    page: {
+        backgroundColor: "#F2F2F2",
         height: "100%",
-        position: 'absolute',
-        left: '10%',
-        right: '10%'
+        clear:'both'
     }
 }
 export default Page;
