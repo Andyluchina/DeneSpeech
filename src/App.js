@@ -54,12 +54,12 @@ class App extends React.Component {
 
   render() {
     if (this.state.configuration === null) {
-        return <Page />;
-      //return <Loading />;
+      return <Loading />;
     } else if (this.state.configuration === "not found") {
       return <NotFoundPage />;
     } else {
-      return <div>{this.state.path} is found in the database</div>;
+      //  return <div>{this.state.path} is found in the database</div>;
+      return <Page />;
     }
   }
 }
