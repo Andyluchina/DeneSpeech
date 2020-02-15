@@ -24,7 +24,7 @@ const styles = {
         display: "inline-block",
         width:'100%',
         height:'100%',
-        padding:'1% 10%',
+        padding:'1% 20%',
         clear:'both'
     },
     page: {

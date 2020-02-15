@@ -21,7 +21,8 @@ const styles = {
         color: '#999',
         bottom: '0',
         background: 'white',
-        clear:'both'
+        clear:'both',
+        fontSize:'12px'
     }
 }
 
