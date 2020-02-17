@@ -23,6 +23,17 @@ with open(filepath) as fp:
 
         # soup = BeautifulSoup(page.content, 'html.parser')
         soup = BeautifulSoup(page.read(), 'html.parser')
+        main_content = soup.find(id='main-content').prettify("utf-8")
+        
+        
+        html_name = line.replace('.html','/').replace('/', '-')
+        with open(html_name+"main-content.html", "w+") as main_file:
+            main_file.write(str(main_content))
+
+        side_bar_content = soup.find(id='sidebar-content')
+        if side_bar_content :
+            with open(html_name+"sidebar-content.html", "w+") as side_bar:
+                side_bar.write(str(side_bar_content.prettify("utf-8")))
 
 
         image_path = []
